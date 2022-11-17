@@ -13,7 +13,7 @@
 ## Tech Stack
 
 - JavaScript
-- Replit: [Replit]https://replit.com/
+- Replit: [Replit](https://replit.com/)
 
 ## Live Project
 
