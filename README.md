@@ -1,4 +1,4 @@
-# Do you Know me CLI Quiz APp
+# Do you Know me CLI Quiz App
 
 - A CLI app which asks 5 basic questions about me. You score a point for every correct answer. I have displayed the answers as well.
 - This app is made using replit
